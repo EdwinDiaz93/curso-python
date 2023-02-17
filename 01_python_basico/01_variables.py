@@ -1,4 +1,9 @@
 
+
+'''
+Variables
+'''
+
 # Almacena un espacio en memoria y su valor
 # pueden almacenar distintos tipos de datos
 x=10
@@ -11,3 +16,10 @@ print(y)
 # no puede empezar por numeros
 # no pueden ser palabras reservadas
 # no pueden contener espacios
+
+# convencion de nombrado de variables
+
+# camelCase: nombreMascota
+# PascalCase: NombreMascota
+# snake_case: nombre_mascota
+# kebab-case: nombre-mascota
